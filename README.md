@@ -34,6 +34,12 @@ I build scalable mobile applications, cross-platform libraries, and production-r
 
 ---
 
+## 📄 Resume
+
+[View My Resume](https://drive.google.com/file/d/1rPmrTFQJPf2cYPjenpwm6my1WVO87CCF/view?usp=drive_link)
+
+---
+
 ## 🚀 Featured Project
 
 ### [KPDF](https://github.com/mahmoud947/KPDF)
@@ -139,12 +145,6 @@ A Kotlin Multiplatform PDF library for Android and iOS with a Compose Multiplatf
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mahmoud947&theme=dark&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud947&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-## 📄 Resume
-
-[View My Resume](https://drive.google.com/file/d/1rPmrTFQJPf2cYPjenpwm6my1WVO87CCF/view?usp=drive_link)
 
 ---
 
